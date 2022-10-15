@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajtitan2320" alt="ajtitan2320" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akaajtitan" target="blank"><img src="https://img.shields.io/twitter/follow/ajtitan23?logo=twitter&style=for-the-badge" alt="ajtitan23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akaajtitan" target="blank"><img src="https://img.shields.io/twitter/follow/AJTITAN?logo=twitter&style=for-the-badge" alt="ajtitan23" /></a> </p>
 
-- 🔭 I’m currently working on [Will update soon](Will update soon)
+- 🔭 I’m currently working on [Will update soon]
 
 - 🌱 I’m currently learning **Vue, angular js**
 
