@@ -58,7 +58,6 @@
 
 
 ## 🙋‍♂️ Let's Connect
-<div align="center">
 [![Gmail][gmail-shield]][gmail-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
@@ -66,7 +65,6 @@
 [![Hackerrank][hackerrank-shield]][hackerrank-url]
 [![GFG][gfg-shield]][gfg-url]
 <br>
-</div>
 
 <div align="center">
 
