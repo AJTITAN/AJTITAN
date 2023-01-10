@@ -72,7 +72,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Amaan6674">![Footer quote][quote-url]</a>
+  <a href="https://github.com/AJTITAN2320">![Footer quote][quote-url]</a>
 
 </div>
 
