@@ -56,12 +56,9 @@
 
 </div>
 
-## Published papers
-![SSRN][ssrn-shield] [Speech Recognition Based Prescription Generator][ssrn-paper-url]  
-
-![IEEE][ieee-shield] [Voice Prescription using Natural Language Understanding][ieee-paper-url]
 
 ## 🙋‍♂️ Let's Connect
+<div align="center">
 [![Gmail][gmail-shield]][gmail-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
@@ -69,6 +66,7 @@
 [![Hackerrank][hackerrank-shield]][hackerrank-url]
 [![GFG][gfg-shield]][gfg-url]
 <br>
+</div>
 
 <div align="center">
 
@@ -84,8 +82,8 @@
 [github-streak]: https://streak-stats.demolab.com?user=AJTITAN2320&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN2320&theme=algolia
 [github-stats]: https://github-readme-stats.vercel.app/api?username=AJTITAN2320&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN2320/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-4-green?labelColor=white&logo=geeksforgeeks&style=flat
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/AJTITAN
 [gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
 [hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
