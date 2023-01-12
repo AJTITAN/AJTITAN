@@ -15,11 +15,11 @@
 ## 📊 Github stats
 <div align="center">
 
-  <a>![Github stats][github-stats]</a>
+  <a> ![Github stats][github-stats]</a>
 
 </div>
 
-### 📈 Github profile stats
+## 📈 Github profile stats
 ![Visitors][visitors-badge]
 ![Github stars][github-stars-shield]
 ![Github followers][github-followers-shield]
@@ -33,14 +33,14 @@
 
 </div>
 
-### 🔥 Streak stats
+## 🔥 Streak stats
 <div align="center">
 
   <a>![Github streak][github-streak]</a>
 
 </div>
 
-### 🏆 Trophies stats
+## 🏆 Trophies stats
 <div align="center">
 
   <a>![Github trophy][github-trophy]</a>
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/AJTITAN2320">![Footer quote][quote-url]</a>
+  <a href="https://github.com/AJTITAN">![Footer quote][quote-url]</a>
 
 </div>
 
@@ -79,7 +79,7 @@
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&theme=algolia
 [github-streak]: https://streak-stats.demolab.com?user=AJTITAN&theme=algolia
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN&theme=algolia
-[githubstats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=720
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/AJTITAN
